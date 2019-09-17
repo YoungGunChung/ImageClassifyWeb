@@ -1,0 +1,6 @@
+log.txt
+/dira2
+*.txt
+.vscode/ 
+testAll.py
+__pycache__/
